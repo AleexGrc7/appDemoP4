@@ -1,7 +1,9 @@
 public class CalseA{
-private int x;
-
-public ClaseA(){
-x=0;
-}
+  private double x;
+  private String y;
+  
+  public ClaseA(){
+  x=0.0;
+  y="";
+  }
 }
