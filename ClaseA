@@ -1,0 +1,7 @@
+public class CalseA{
+private int x;
+
+public ClaseA(){
+x=0;
+}
+}
